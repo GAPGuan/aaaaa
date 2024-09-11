@@ -14337,7 +14337,7 @@ initCom(PDFViewerApplication);
   PDFPrintServiceFactory.initGlobals(PDFViewerApplication);
 }
 {
-  const HOSTED_VIEWER_ORIGINS = ["null", "http://shangan.tech", "https://shangan.tech"];
+  const HOSTED_VIEWER_ORIGINS = ["null", "http://zcy.tech/", "http://zcy.tech/"，"http://zcy.tech/"];
   var validateFileURL = function (file) {
     if (!file) {
       return;
